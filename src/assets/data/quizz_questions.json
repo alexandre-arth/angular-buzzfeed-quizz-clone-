@@ -1,0 +1,165 @@
+[{
+  "title":"Escola do Bem e do Mal => Você seria um Nunca ou Sempre ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual tipo de poder você escolheria ?",
+      "options":[
+        {"id": 1, "name":"Raios Congelantes", "alias":"B"},
+        {"id": 2, "name":"Voar", "alias":"A"},
+        {"id": 3, "name":"Explodir coisas", "alias":"B"},
+        {"id": 4, "name":"Curar feridas", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Em momentos de perigo você...",
+      "options":[
+        {"id": 1, "name":"Lideraria o time de ajuda", "alias":"A"},
+        {"id": 2, "name":"Se salvaria", "alias":"B"},
+        {"id": 3, "name":"Salvaria apenas quem é importante para ti", "alias":"B"},
+        {"id": 4, "name":"Tentaria salvar todo mundo", "alias":"A"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual você prefere?",
+      "options":[
+        {"id": 1, "name":"Ataque", "alias":"B"},
+        {"id": 2, "name":"Defesa", "alias":"A"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "O que é mais importante para você?",
+      "options":[
+        {"id": 1, "name":"Lealdade e Amizade", "alias":"A"},
+        {"id": 2, "name":"Ganhar tudo que você quer", "alias":"B"},
+        {"id": 3, "name":"O Interior e o Amor", "alias":"A"},
+        {"id": 4, "name":"A Aparência", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Você se considera uma pessoa que perdoa fácil ?",
+      "options":[
+        {"id": 1, "name":"Não", "alias":"B"},
+        {"id": 2, "name":"Sim", "alias":"A"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria um SEMPRE!",
+    "B": "Você muito provavelmente seria um NUNCA!"
+  }
+},
+{
+  "title":"Avatar => Qual tribo ou nação do avatar você pertenceria?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Como você se descreveria?",
+      "options":[
+        {"id": 1, "name":"Explosivo e impulsivo", "alias":"B"},
+        {"id": 2, "name":"Calmo e centrado", "alias":"C"},
+        {"id": 3, "name":"Emotivo e sentimental", "alias":"C"},
+        {"id": 4, "name":"Equilibrado e estável", "alias":"D"},
+        {"id": 5, "name":"Tipo espirito livre", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Você se considera uma pessoa religiosa/espitual ?",
+      "options":[
+        {"id": 1, "name":"Não, mas não nego a existência de um mundo espiritual", "alias":"B"},
+        {"id": 2, "name":"Acredito no mundo espiritual", "alias":"D"},
+        {"id": 3, "name":"Não muito, mas tenho minhas crenças", "alias":"C"},
+        {"id": 4, "name":"Minha espiritualidade é parte integral do meu ser" , "alias":"A"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Em uma briga você...",
+      "options":[
+        {"id": 1, "name":"Houve e analisa tudo antes de tomar uma decisão", "alias":"D"},
+        {"id": 2, "name":"Procura ficar calmo e tenta descontrair o ambiente", "alias":"A"},
+        {"id": 3, "name":"Prefere ignorar e sair do ambiente até as coisas se acalmarem", "alias":"C"},
+        {"id": 4, "name":"Discute, eleva a voz e perde a linha", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual estação do ano é sua favorita?",
+      "options":[
+        {"id": 1, "name":"Inverno", "alias":"C"},
+        {"id": 2, "name":"Outono", "alias":"D"},
+        {"id": 3, "name":"Primavera", "alias":"A"},
+        {"id": 4, "name":"Verão", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você provavelmente é da tribo do AR",
+    "B": "Você provavelmente é da tribo do FOGO",
+    "C": "Você provavelmente é da tribo da AGUA",
+    "D": "Você provavelmente é da tribo da TERRA"
+  }
+},
+{
+  "title":"StarWars => Você seria um JEDI ou um SITH?",
+  "questions":[
+    {
+      "id":1,
+      "question": "O que você gostaria de aprender de um holocrom? ?",
+      "options":[
+        {"id": 1, "name":"Como manipular as pessoas", "alias":"A"},
+        {"id": 2, "name":"Como curar as pessoas amadas", "alias":"B"},
+        {"id": 3, "name":"Como vencer a morte", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Quem você salvaria primeiro ?",
+      "options":[
+        {"id": 1, "name":"Crianças e Idosos", "alias":"B"},
+        {"id": 2, "name":"Apenas Eu", "alias":"A"},
+        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Você encontrou um espelho que irá refletir o que você mais deseja. O que você vê?",
+      "options":[
+        {"id": 1, "name":"Uma galaxia livre da opressão", "alias":"B"},
+        {"id": 2, "name":"Meu maior inimigo beijando meus pés", "alias":"A"},
+        {"id": 3, "name":"Eu mesmo, só que mais sabio", "alias":"B"},
+        {"id": 4, "name":"Uma pessoa que eu ainda não conheço. Mas que trará equilibrio a força", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Você descobriu que uma pessoa muito próxima te traiu de maneira imperdoável. Como você reage ?",
+      "options":[
+        {"id": 1, "name":"Fica sozinho para poder pensar com clareza", "alias":"B"},
+        {"id": 2, "name":"Destroi tudo pela frente até se acalmar", "alias":"B"},
+        {"id": 2, "name":"Já pensou em um jeito de se vingar", "alias":"A"},
+        {"id": 2, "name":"Corta relações com a pessoa imediatamente", "alias":"A"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual o seria seu sobrenome?",
+      "options":[
+        {"id": 1, "name":"Skywalker", "alias":"B"},
+        {"id": 2, "name":"Solo", "alias":"B"},
+        {"id": 2, "name":"Palpatine", "alias":"A"},
+        {"id": 2, "name":"Nihilus", "alias":"A"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Os Siths te esperam na Coruscant (o centro da galaxia) ",
+    "B": "Todos JEDI's te saudam. Que a Força esteja com você"
+  }
+}
+]

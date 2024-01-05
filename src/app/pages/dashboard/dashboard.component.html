@@ -1,0 +1,14 @@
+<section class="quizz__container">
+   <div class="quizz_logo">
+        <img src="assets/imgs/logo.png" alt="" srcset="">
+        <h3>Escolha um numero e responda o Quizz Surpresa</h3>
+    </div>
+
+    <div class="menu__selection">
+        <ul class="selection__options">
+            <li class="option" *ngFor="let item of listQuizz ; let i = index">
+                <a class="option__link" [routerLink]="[i]"> Quizz {{i + 1}}</a>
+            </li>
+        </ul>
+    </div> 
+</section>

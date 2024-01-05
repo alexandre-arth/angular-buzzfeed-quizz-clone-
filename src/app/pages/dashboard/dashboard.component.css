@@ -1,0 +1,62 @@
+.quizz__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 40px auto;
+    padding: 10px;
+    background-color: rgba(12, 12, 145, 0.342);
+}
+
+.quizz_logo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    min-width: 250px;
+    width: 90%;
+}
+
+.quizz_logo > img{
+    width: 90%;
+    max-width: 500px;
+}
+  
+.quizz_logo > h3{
+    margin-top: 20px;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.menu__selection{
+    margin: 20px auto;
+    min-width: 250px;
+    width: 80%;
+}
+
+.selection__options{
+    display: flex;
+    flex-direction: row;  
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0;
+}
+
+.option{
+    border: 2px solid rgb(8, 8, 4);
+    border-radius: 15px;
+    padding: 5px;
+    margin: 10px;
+    background-color: cyan;
+    list-style: none;
+    width: 200px;
+    text-align: center;
+}
+
+.option__link{
+    text-decoration: none;
+    font-size: 1.025rem;
+    color: black;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
